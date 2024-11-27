@@ -1,0 +1,10 @@
+.Text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:aqua;
+    font-size: 50px;
+    font-family:monospace;
+    margin-top: 400px;
+   
+}
